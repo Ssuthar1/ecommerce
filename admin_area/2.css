@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.admin_image{
+    width: 100px;
+    object-fit: contain;
+}
+
+
